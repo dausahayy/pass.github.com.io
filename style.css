@@ -1,0 +1,36 @@
+body {
+
+    text-align: center;
+    color: azure;
+    background-color: cadetblue;
+
+}
+
+img {
+
+
+height:auto ;
+max-width:100% ;
+
+
+}
+
+button {
+
+border-radius:10px ;
+height:50 ;
+width:20 ;
+color: aliceblue;
+background-color: darkcyan;
+
+}
+
+button:hover {
+
+background: hotpink;
+
+}
+
+.pop{
+ padding: 200px;
+}
